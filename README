@@ -1,0 +1,11 @@
+Stock Prediction Software (Uptick):
+•	Applying sentiment analysis on low volitilty stock’s relevant news articles and tweets to predicts possible trends and future price changes
+•	Using legacy stock data, sentiment analysis on news articles and tweets, and machine learning
+
+Currently we have scrapped the web for legacy stock data, news articles, and tweets. And we have been able to apply sentiment
+analysis on news articles and tweets in order to find the negativety and/or positivey of media data/text.
+
+My lead roles have been in accessing the twitter api in order to scrape tweets based on username(@) or hashtag(#).
+I also created a sentiment analysis script to apply sentiment analysis accurently on news atricles and tweets. 
+
+Then next steps are to learn the best way to apply machine learning onto all of the data that we have collected. 
